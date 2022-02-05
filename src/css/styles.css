@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ya-banner {
+  margin-right: 15px;
+}
+
+.top-banner {
+  margin: 20px 0;
+  padding: 0;
+  display: block;
+}
+
+.big-banner {
+  margin: 0 0 20px 0;
+}
+
+span {
+  color: gray;
+}

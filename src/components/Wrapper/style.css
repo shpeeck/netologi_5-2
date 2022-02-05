@@ -1,0 +1,17 @@
+.wrapper {
+  width: 100%;
+  max-width: 755px;
+  margin: 0 auto;
+}
+
+.wrapper-top {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 10px;
+}
+
+.wrapper-bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}

@@ -1,0 +1,88 @@
+[
+  [
+    ["Видео", "https://ya.ru/"],
+    ["Картинки", "https://ya.ru/some"],
+    ["Новости", "https://ya.ru/"],
+    ["Карты", "https://ya.ru/some"],
+    ["Маркет", "https://ya.ru/"],
+    ["Переводчик", "https://ya.ru/some"],
+    ["Эфир", "https://ya.ru/"],
+    ["еще...", "https://ya.ru/some"]
+  ],
+  [
+    ["Сейчас в СМИ", "https://ya.ru/"],
+    ["в Германии", "https://ya.ru/some"],
+    ["Рекомендуем", "https://ya.ru/"]
+  ],
+  [
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/1.jpg?raw=true",
+      "Путин упростил получение автомобильных номеров",
+      "",
+      "https://ya.ru"
+    ],
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/1.jpg?raw=true",
+      "В команде Зеленского раскрыли план реформ на Украине",
+      "",
+      "https://ya.ru"
+    ],
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/2.jpg?raw=true",
+      "Турпомощь» прокомментировала гибель десятков россиян в Анталье",
+      "",
+      "https://ya.ru"
+    ],
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/3.jpg?raw=true",
+      "Суд закрыл дело Демпартии США против России",
+      "",
+      "https://ya.ru"
+    ],
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/4.jpg?raw=true",
+      "На Украине призвали создать ракеты для удара по Москве",
+      "",
+      "https://ya.ru"
+    ]
+  ],
+  [
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/wether.jpg?raw=true",
+      "Утром +17, днем +20",
+      "",
+      "https://ya.ru"
+    ]
+  ],
+  [
+    ["", "Недвижимость — о сталинках", "", "https://ya.ru"],
+    ["", "Маркет — люстры и светильники", "", "https://ya.ru"],
+    ["", "Авто.ру — привод 4x4 до 500 000", "", "https://ya.ru"]
+  ],
+  [["", "Расписания", "", "https://ya.ru"]],
+  [
+    ["", "02:00 THT. Best ", "ТНТ International", "https://ya.ru"],
+    ["", "02:15 Джинглики ", "Карусель ІN1", "https://ya.ru"],
+    ["", "02:25 Наедине со всеми ", "Первый", "https://ya.ru"]
+  ],
+  [
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/play.jpg?raw=true",
+      "Управление как искусство ",
+      "Успех",
+      "https://ya.ru"
+    ],
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/play.jpg?raw=true",
+      "Ночь. Мир в это время ",
+      "earthTV",
+      "https://ya.ru"
+    ],
+    [
+      "https://github.com/shpeeck/netologi_5-2/blob/main/images/play.jpg?raw=true",
+      "Андрей Воэн... ",
+      "Совершенно секретно",
+      "https://ya.ru"
+    ]
+  ]
+]
