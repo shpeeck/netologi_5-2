@@ -10,19 +10,19 @@ import "./style.css";
 export default function Wrapper({ data }) {
   const yaBanner = {
     image:
-      "https://github.com/shpeeck/netologi_5-2/blob/main/images/logo.jpg?raw=true",
+      "https://github.com/shpeeck/netologi_5-2/blob/main/src/image/logo.jpg?raw=true",
     alt: "yandex",
     banStyle: "ya-banner"
   };
   const bigBanner = {
     image:
-      "https://github.com/shpeeck/netologi_5-2/blob/main/images/banner.jpg?raw=true",
+      "https://github.com/shpeeck/netologi_5-2/blob/main/src/image/banner.jpg?raw=true",
     alt: "banner",
     banStyle: "big-banner"
   };
   const smallBanner = {
     image:
-      "https://github.com/shpeeck/netologi_5-2/blob/main/images/pic.jpg?raw=true",
+      "https://github.com/shpeeck/netologi_5-2/blob/main/src/image/pic.jpg?raw=true",
     alt: "tp-banner",
     banStyle: "top-banner"
   };
